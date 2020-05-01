@@ -1,1 +1,1 @@
-## sprint cahllenge for CS week 8
+## sprint challenge for CS week 8
